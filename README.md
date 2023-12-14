@@ -7,7 +7,6 @@ The program is designed to work with mega.nz accounts. Using this program, you c
 - Uploading files to your accounts
 - Downloading files from your accounts
 
-- 
 # How to use it
 1. You need to select the program operating mode.(**UPLOAD, DOWNLOAD, CHECK**)
 2. Choose whether you will use a proxy. If yes, please indicate which proxies you will use(**HTTPS, SOCSK4, SOCKS5**).After which you will need to specify the path to the proxy. This can be a link or path to a file (.txt) with a proxy. For example https://proxyforexample.com/socks5.txt or C:\Users\Administrator\Desctop\https.txt
