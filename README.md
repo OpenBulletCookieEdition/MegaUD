@@ -1,7 +1,13 @@
-# MegaUD
+# What is MegaUD?
 The program is designed to work with mega.nz accounts. Using this program, you can download files in bulk from your mega.nz accounts, as well as upload files to your mega.nz accounts.
+
 **IMPORTANT!** This software is designed to work only with your mega.nz accounts. Using someone else's credentials is **illegal!** The developer will not be held responsible for improper use of this software.
 
+# Features
+- Uploading files to your accounts
+- Downloading files from your accounts
+
+- 
 # How to use it
 1. You need to select the program operating mode.(**UPLOAD, DOWNLOAD, CHECK**)
 2. Choose whether you will use a proxy. If yes, please indicate which proxies you will use(**HTTPS, SOCSK4, SOCKS5**).After which you will need to specify the path to the proxy. This can be a link or path to a file (.txt) with a proxy. For example https://proxyforexample.com/socks5.txt or C:\Users\Administrator\Desctop\https.txt
@@ -11,6 +17,9 @@ The program is designed to work with mega.nz accounts. Using this program, you c
 
 # Adviсe
 **If you do not use a proxy, then it is not recommended to install more than 7 threads.**
+
+# Spec
+- .NET 8
 
 # License
 This software is licensed under the MIT License.
