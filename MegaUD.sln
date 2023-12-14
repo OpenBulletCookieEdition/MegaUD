@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MegaUD", "MegaUD\MegaUD.csproj", "{0C8A8DBC-F93B-4E2E-8F33-1B28172D397A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MegaApiClient", "MegaApiClient\MegaApiClient.csproj", "{4C46209B-C45D-4D74-82F0-E318585B07ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C8A8DBC-F93B-4E2E-8F33-1B28172D397A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8A8DBC-F93B-4E2E-8F33-1B28172D397A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8A8DBC-F93B-4E2E-8F33-1B28172D397A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8A8DBC-F93B-4E2E-8F33-1B28172D397A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C46209B-C45D-4D74-82F0-E318585B07ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C46209B-C45D-4D74-82F0-E318585B07ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C46209B-C45D-4D74-82F0-E318585B07ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C46209B-C45D-4D74-82F0-E318585B07ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4E60BF8-3D84-4005-A7D7-AC2199853386}
+	EndGlobalSection
+EndGlobal
